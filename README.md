@@ -4,6 +4,14 @@ Travel 100 is an e-commerce site that provides \$100 travel destinations. Built 
 
 ## Project setup
 
+### Make sure you have Vue CLI installed
+
+```
+npm install -g @vue/cli
+```
+
+### Install node modules
+
 ```
 npm install
 ```
